@@ -4,9 +4,12 @@ You can start writing [Markdown](https://daringfireball.net/projects/markdown/) 
 
 Check the demo below, then practice Markdown in your browser using [Dillinger](http://dillinger.io/), try the [Markdown Tutorial](http://www.markdowntutorial.com/), or read GitHub's [Mastering Markdown Guide](https://guides.github.com/features/mastering-markdown/).
 
-# Heading One
+# First Heading
+This is paragraph text *in italics* and **bolded**. 
 
-## Heading Two
+## Second Heading
+If I want to highlight a particular `word` it's important to make it look 
+>different.
 
 ### Heading Three, etc.
 
